@@ -12,7 +12,7 @@ app = FastAPI()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 
 users_db = {
-    "nahidul": {
+    "NAHIDUL": {
         "username": "NAHIDUL",
         "password": "51535759"
     }
